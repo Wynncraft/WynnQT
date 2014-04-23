@@ -1,0 +1,18 @@
+Stage 1:
+Karavanen Treiber: Endlich, du bist aufgewacht! Ich habe angefangen mir Sorgen zu machen...
+Karavanen Treiber: Unsere Karawane hat vor ein paar Stunden seine Räder verloren, wir müssen das letzte Stück der Straße zu Fuß zurücklegen.
+Karavanen Treiber: Die anderen Passagiere sind bereits vorausgegangen, du solltest zu ihnen aufholen! Der König erwartet dich.
+Karavanen Treiber: Aber bevor du weitergehst, nimm diese Smaragde und kauf dir etwas Rüstung, es ist nicht sehr sicher in dieser Gegend...
+Karavanen Treiber: Denke auch daran deine Zauber zu benutzen falls du in Gefahr gerätst! Du weist nie was passieren könnte..
+
+Stage 2:
+Honynn: Untote! Wir werden angegriffen! Benutz deine Waffe um uns zu verteidigen!
+Honynn: Kümmer dich nicht um uns! Geh schnell weiter! Der König erwartet dich!
+
+Stage 3:
+Der König: Aaah! Ein neuer Rekrut! Du bist gerade rechtzeitig angekommen!
+Der König: Willkommen in der Provinz von Wynn!
+Der König: Diese Festung wird Ragni genannt, eine der ältesten und schönsten Plätze die du hier finden kannst.
+Der König: Deine Aufgabe ist es das Wachstum der Monster die diese Provinz verwüsten zu stoppen.
+Der König: Jedoch solltest du in diesem Gebiet bleiben bis du stärker geworden bist... viele Abenteurer lassen hier ihr Leben...
+Der König: ...Trotzdem, viel Glück! Wenn du dich verlaufen hast benutze www.wynncraft.com/map es ist sehr nützlich für den Anfang.

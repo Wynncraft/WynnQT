@@ -1,0 +1,18 @@
+1:
+Caravan Driver: Finalmente te has despertado ! Estaba empezando a preocuparme...
+Caravan Driver: Nuestra caravana perdió su rueda hace unas pocas horas, tendremos que recorrer el resto del camino a pie.
+Caravan Driver: ¡ Los otros pasajeros se adelantaron, deberías unirte a ellos ! El Rey te está esperando.
+Caravan Driver: Pero antes de que te vayas, coge estas Esmeraldas y consiguete algo de armadura, no siempre es seguro todo por aquí...
+Caravan Driver: ¡ Recuerda usar tu hechizo si estás en peligro ! No sabemos lo que podría pasar...
+
+2:
+Honynn: ¡ Muertos vivientes ! ¡ Estamos bajo un ataque ! ¡ Usa tu arma para defendernos !
+Honynn: ¡ No te preocupes por nosotros ! ! Continua, rápido ! ¡ El Rey te está esperando !
+
+3:
+The King: ¡ Aaah ! ¡ Un nuevo recluta ! ¡ Has llegado justo a tiempo !
+The King: ¡ Bienvenido a la provincia de Wynn !
+The King: ¡ Este fuerte se llama Ragni, uno de los más antiguos y preciosos lugares que podrás encontrar !
+The King: Tu trabajo es parar el aumento de monstruos que saquean la provincia.
+The King: Quizá quieras quedarte hasta que tengas algo más de experiencia... Muchas vidas son desperdiciadas cada día...
+The King: ... ¡ De todos modos, buena suerte ! Si estás perdido, usa wynncraft.com/map, es muy util al principio.

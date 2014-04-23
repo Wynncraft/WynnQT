@@ -1,0 +1,18 @@
+Steg 1
+Husvagnsförare: Slutligen väckte dig ! Jag började bli orolig ...
+Husvagnsförare : Vår husvagn förlorat sitt hjul för några timmar sedan , måste vi gå till resten av vägen till fots .
+Husvagnsförare : De andra passagerarna gick framåt , bör du gå med dem ! Kungen väntar på dig .
+Husvagnsförare : Men innan du reser, ta dessa smaragder och få lite pansar , det är inte alltid säkert runt här ...
+Husvagnsförare : Kom ihåg att använda din spell om du är i fara ! Vi vet aldrig vad som kan hända ...
+
+Steg 2
+Honynn: Zombier! Vi är under attack! Använd ditt vapen för att försvara oss!
+Honynn: Oroa dig inte om oss! Fortsätt, snabbt! Kungen väntar på dig!
+
+Steg 3
+Kungen: Aaah! En ny rekryt! Du kom precis i tid!
+Kungen: Välkommen till provinsen Wynn!
+Kungen: Den här staden heter Ragni , en av de äldsta och vackraste platser du kan finna!
+Kungen: Ditt jobb är att stoppa tillväxten av de monster som härjar i provinsen.
+Kungen: Du kanske vill stanna kvar tills du blir mer erfaren... Många liv går till spillo varje dag...
+Kungen: ...Hur som helst, lycka till! Om du är vilse, använd wynncraft.com/map det är mycket användbart i början.

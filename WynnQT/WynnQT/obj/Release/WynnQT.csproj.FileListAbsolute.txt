@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\WynnQT\WynnQT\bin\Release\WynnQT.exe.config
+C:\Users\Acer\Documents\WynnQT\WynnQT\bin\Release\WynnQT.exe
+C:\Users\Acer\Documents\WynnQT\WynnQT\bin\Release\WynnQT.pdb
+C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.Properties.Resources.resources
+C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.WynnQT.resources
+C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.exe
+C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.pdb
+C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.csprojResolveAssemblyReference.cache

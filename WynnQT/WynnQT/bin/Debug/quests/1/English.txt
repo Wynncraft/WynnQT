@@ -1,0 +1,19 @@
+Stage 1:
+Caravan Driver: Finally, you woke up! I was starting to get worried...
+Caravan Driver: Our caravan lost its wheel a few hours ago, we will have to walk to rest of the road by foot.
+Caravan Driver: The other passengers went ahead, you should join them! The King is waiting for you.
+Caravan Driver: But before you leave, take these Emeralds and get yourself some armor, it's not always safe around here...
+Caravan Driver: Remember to use your spell if you are in danger! We never know what could happen...
+
+Stage 2:
+Honynn: Undeads! we are under attack! Use your weapon to defend us!
+Honynn: Don't worry about us! Keep going, quick! The King is waiting for you!
+
+Stage 3:
+The King: Aaah! A new recruit! You arrived just in time!
+The King: Welcome to the province of Wynn!
+The King: This fort is named Ragni, one of the oldest and most beautiful places you can find!
+The King: Your job is to stop the growth of the monsters that ravage the province.
+The King: You might want to stick around until you become more experienced... Many lives are wasted everyday...
+The King: ... Anyway, good luck! If you are lost, use wynncraft.com/map it is very useful at the start.
+The King: Also, take this Ragni Teleportation Scroll! It will bring you back here if you use it.

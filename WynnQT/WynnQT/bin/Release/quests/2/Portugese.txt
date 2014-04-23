@@ -1,0 +1,14 @@
+1:
+Enzan: Eu vejo que você quer se aventurar na selva!
+Enzan: meu nome é Enzan,e sou um cavalheiro aposentado. Gastei quase toda minha vida lutando pelo exercito de Ragni,como você.
+Enzan: Eu sei que é dificil ser um recruta agora, então eu possuo uma coisa que possa te ajudar! Bom,eu não possuo,mas meu irmão possui.
+Enzan: Siga essa estrada, ele está na entrada da Nivla Forest,você não pode passar despercebido.
+Enzan: Fale pra ele que te mandei! Algumas vezes ele pode ser um otário para estranhos...
+
+2:
+Therck: Você não está vendo que estou ocupado?
+Therck: Oh,meu irmão? Desculpe,eu não sabia.
+Therck: E sim,possuo uma coisa que pode te ajudar...
+Therck: Essa pólvora vermelha irá encantar suas armas e sua armadura com magia de fogo.
+Therck: Para usá-lo,coloque sua arma na bancada de trabalho do seu inventário.
+Therck: Agora tenha cuidado ao explorar essa floresta,poucas saem daí vivo.

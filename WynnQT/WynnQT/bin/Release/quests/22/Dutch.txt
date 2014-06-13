@@ -1,0 +1,26 @@
+Stage 1:
+Adigard: Welkom reiziger, op ons nederige eilandje....
+Adigard: Mijn volk en ik zijn hier vele jaren geleden aangekomen. Helaas heeft ons schip het niet gehaald...
+Adigard: We hebben geprobeerd een natie op te bouwen op deze eilanden, maar zijn door de jaren heen verdeeld geraakt.
+Adigard: Hierdoor voeren we een nutteloze oorlog met onze buren.
+Adigard: Ik geloof dat we misschien een vredesverdrag kunnen sluiten, maar ik ben bang dat als ik het eiland verlaat het me mijn leven kost...
+Adigard: Zou je ons willen helpen? Spreek met Halfred over dit verdrag, hij woont op een ander ijs eiland in de buurt.
+Stage 2:
+Hallfred: Welkom reiziger! Wat brengt jou naar ons eiland?
+Hallfred: Oh, dus Adigard stuurt nu vreemden langs uit angst om zelf vermoord te worden?
+Hallfred: Dit is de laatste keer dat ik dit zal herhalen: We zullen pas op de dag dat Adigard.. de schat... terug brengt zijn vredesverdrag ondertekenen!
+Hallfred: De schat die ze verborgen voor ons hielden na de schipbreuk.
+Hallfred: Puur goud, heel erg kostbaar en zeldzaam! Vertel hem dat ik er op wacht en geen onnozele verhalen meer wil horen.
+Stage 3:
+Adigard: Dat had ik kunnen verwachten. Halfred is altijd erg hebberig geweest...
+Adigard: We hebben geprobeerd hem te laten begrijpen dat wij de schat niet hebben, zonder succes.
+Adigard: ... Het zit namelijk zo, de reden dat we niet door natuurlijke omstandigheden schipbreuk leden. We werden aangevallen...
+Adigard: Door wie? De ondode. Geesten en Demonen die een monsterreus schip navigeren. Ze hebben ons te pakken gekregen met een verrassingsaanval.
+Adigard: Ik ben van mening dat ze ook onze schat hebben gestolen tijdens de aanval.
+Adigard: Zou je ons willen helpen onze natie weer samen te laten komen? Vind het schip en breng de schat terug naar Hallfred zodat we eindelijk in vrede kunnen leven.
+Adigard: Zeil naar het noorden. Dat is waar we jaren geleden door hen zijn aangevallen. Het zal niet moeilijk te vinden zijn, ik weet zeker dat ze daar geankerd zijn in roem... Bedankt.
+Stage 4:
+Hallfred: Ongelofelijk! Hij heeft daadwerkelijk de schat geleverd!
+Hallfred: Dat zal dan wel het einde van de oorlog tussen onze naties betekenen!
+Hallfred: Dit is een geweldige dag! Hier, neem dit als beloning voor het helpen van onze natie.
+Hallfred: Ik weet zeker dat deze helm je op een dag wel goed van pas zal komen!

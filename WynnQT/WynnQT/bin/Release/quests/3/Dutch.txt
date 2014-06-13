@@ -1,0 +1,15 @@
+Stage 1:
+Ooni: Oh! Ik ben zo blij om jou te zien!
+Ooni: Mijn naam is Ooni en ik ben al ruim 20 jaar lang hier opgesloten!
+Ooni: Een aardige avonturier genaamd Waront stond op het punt me de sleutel te geven om te ontsnappen, maar hij werd verjaagd door de bewakers!
+Ooni: Hij heeft zich waarschijnlijk in het riool verstopt. Als je de sleutel naar me terug zou kunnen brengen, zou dat geweldig zijn!
+
+Stage 2:
+Waront: Ow! Oh. Je hoort niet bij de bewakers, of wel?
+Waront: Goddank! Ja, ik heb de sleutel bij me, hier.
+Waront: Hopelijk kunnen we de gevangene bevrijden...
+
+Stage 3:
+Ooni: Geweldig! Je hebt de sleutel!
+Ooni: Hoewel ik best wel gewend ben geraakt aan deze cell. Ik denk dat ik nog even blijf.
+Ooni: Maar, ik ben niet hebberig! Hier heb je iets als dank.

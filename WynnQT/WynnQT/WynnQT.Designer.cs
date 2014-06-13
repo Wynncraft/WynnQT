@@ -35,6 +35,12 @@
             this.languageSelect = new System.Windows.Forms.ComboBox();
             this.trans = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.fontSize = new System.Windows.Forms.ComboBox();
+            this.fontSizeL = new System.Windows.Forms.Label();
+            this.fontColorL = new System.Windows.Forms.Label();
+            this.fontColor = new System.Windows.Forms.ComboBox();
+            this.backColorL = new System.Windows.Forms.Label();
+            this.backColor = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // quest
@@ -53,7 +59,7 @@
             this.language.AutoSize = true;
             this.language.Font = new System.Drawing.Font("Minecraft", 18.75F, System.Drawing.FontStyle.Bold);
             this.language.ForeColor = System.Drawing.Color.White;
-            this.language.Location = new System.Drawing.Point(320, 9);
+            this.language.Location = new System.Drawing.Point(302, 12);
             this.language.Name = "language";
             this.language.Size = new System.Drawing.Size(172, 25);
             this.language.TabIndex = 1;
@@ -124,7 +130,7 @@
             "Greek/ελληνικά",
             "Norwegian/Norsk",
             "Czech/čeština"});
-            this.languageSelect.Location = new System.Drawing.Point(325, 49);
+            this.languageSelect.Location = new System.Drawing.Point(307, 49);
             this.languageSelect.Name = "languageSelect";
             this.languageSelect.Size = new System.Drawing.Size(184, 27);
             this.languageSelect.TabIndex = 3;
@@ -141,7 +147,7 @@
             this.trans.Name = "trans";
             this.trans.ReadOnly = true;
             this.trans.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.trans.Size = new System.Drawing.Size(761, 225);
+            this.trans.Size = new System.Drawing.Size(761, 239);
             this.trans.TabIndex = 4;
             this.trans.Text = "Translation";
             // 
@@ -160,12 +166,119 @@
             this.textBox1.TabIndex = 5;
             this.textBox1.Text = resources.GetString("textBox1.Text");
             // 
+            // fontSize
+            // 
+            this.fontSize.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.fontSize.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Italic);
+            this.fontSize.FormattingEnabled = true;
+            this.fontSize.Items.AddRange(new object[] {
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "14",
+            "16",
+            "18"});
+            this.fontSize.Location = new System.Drawing.Point(116, 349);
+            this.fontSize.Name = "fontSize";
+            this.fontSize.Size = new System.Drawing.Size(59, 27);
+            this.fontSize.TabIndex = 6;
+            this.fontSize.SelectedIndexChanged += new System.EventHandler(this.fontSize_SelectedIndexChanged);
+            // 
+            // fontSizeL
+            // 
+            this.fontSizeL.AutoSize = true;
+            this.fontSizeL.Font = new System.Drawing.Font("Minecraft", 11.75F, System.Drawing.FontStyle.Italic);
+            this.fontSizeL.ForeColor = System.Drawing.Color.White;
+            this.fontSizeL.Location = new System.Drawing.Point(14, 354);
+            this.fontSizeL.Name = "fontSizeL";
+            this.fontSizeL.Size = new System.Drawing.Size(96, 16);
+            this.fontSizeL.TabIndex = 7;
+            this.fontSizeL.Text = "Font Size";
+            // 
+            // fontColorL
+            // 
+            this.fontColorL.AutoSize = true;
+            this.fontColorL.Font = new System.Drawing.Font("Minecraft", 11.75F, System.Drawing.FontStyle.Italic);
+            this.fontColorL.ForeColor = System.Drawing.Color.White;
+            this.fontColorL.Location = new System.Drawing.Point(206, 354);
+            this.fontColorL.Name = "fontColorL";
+            this.fontColorL.Size = new System.Drawing.Size(110, 16);
+            this.fontColorL.TabIndex = 9;
+            this.fontColorL.Text = "Font Color";
+            // 
+            // fontColor
+            // 
+            this.fontColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.fontColor.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Italic);
+            this.fontColor.FormattingEnabled = true;
+            this.fontColor.Items.AddRange(new object[] {
+            "Black",
+            "Grey",
+            "White",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Aqua",
+            "Blue ",
+            "Indigo",
+            "Violet",
+            "Pink"});
+            this.fontColor.Location = new System.Drawing.Point(322, 348);
+            this.fontColor.Name = "fontColor";
+            this.fontColor.Size = new System.Drawing.Size(151, 27);
+            this.fontColor.TabIndex = 8;
+            this.fontColor.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            // 
+            // backColorL
+            // 
+            this.backColorL.AutoSize = true;
+            this.backColorL.Font = new System.Drawing.Font("Minecraft", 11.75F, System.Drawing.FontStyle.Italic);
+            this.backColorL.ForeColor = System.Drawing.Color.White;
+            this.backColorL.Location = new System.Drawing.Point(497, 354);
+            this.backColorL.Name = "backColorL";
+            this.backColorL.Size = new System.Drawing.Size(124, 16);
+            this.backColorL.TabIndex = 11;
+            this.backColorL.Text = "Back Colour";
+            // 
+            // backColor
+            // 
+            this.backColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.backColor.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Italic);
+            this.backColor.FormattingEnabled = true;
+            this.backColor.Items.AddRange(new object[] {
+            "Black",
+            "Grey",
+            "White",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Aqua",
+            "Blue ",
+            "Indigo",
+            "Violet",
+            "Pink"});
+            this.backColor.Location = new System.Drawing.Point(622, 349);
+            this.backColor.Name = "backColor";
+            this.backColor.Size = new System.Drawing.Size(151, 27);
+            this.backColor.TabIndex = 10;
+            this.backColor.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
+            // 
             // WynnQT
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.ClientSize = new System.Drawing.Size(785, 339);
+            this.ClientSize = new System.Drawing.Size(785, 381);
+            this.Controls.Add(this.backColorL);
+            this.Controls.Add(this.backColor);
+            this.Controls.Add(this.fontColorL);
+            this.Controls.Add(this.fontColor);
+            this.Controls.Add(this.fontSizeL);
+            this.Controls.Add(this.fontSize);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.trans);
             this.Controls.Add(this.languageSelect);
@@ -176,7 +289,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "WynnQT";
-            this.Text = "WynnQT v0.1";
+            this.Text = "WynnQT v0.2";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -190,6 +303,12 @@
         private System.Windows.Forms.ComboBox languageSelect;
         private System.Windows.Forms.TextBox trans;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.ComboBox fontSize;
+        private System.Windows.Forms.Label fontSizeL;
+        private System.Windows.Forms.Label fontColorL;
+        private System.Windows.Forms.ComboBox fontColor;
+        private System.Windows.Forms.Label backColorL;
+        private System.Windows.Forms.ComboBox backColor;
     }
 }
 

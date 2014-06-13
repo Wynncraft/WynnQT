@@ -1,0 +1,49 @@
+Stage 1:
+Tarod: Mijn naam is Tarod, en ik heb echt je hulp nodig.
+Tarod: Het zit zo, een paar jaar geleden ontmoette ik een zeer krachtige krijger genaamd Bob.
+Tarod: Hij was een beroemdheid, iedereen hield van hem! Na een tijd werden we goede vrienden.
+Tarod: Op een nacht, besloot hij deze omgeving the onderzoeken. Hij zocht voor iets specifiek, maar hij heeft het nooit iemand verteld.
+Tarod: Hij is nooit terug gekomen. Hij is gezien als Zombie in Wynn, niet in staat om zijn ziel te bevrijden.
+Tarod: Ik geloof dat hij misschien gestorven is in deze omgeving, en ik ben al tijden op zoek naar zijn lichaam.
+Tarod: Sommige personen zeggen dat ze een tombe niet ver van hier hebben gezien, maar ik heb deze nooit gevonden.
+Tarod: Denk je dat je me zou kunnen helpen? Kom terug als je iets ziet.
+Tarod: Ik zal je eeuwig dankbaar zijn als je me helpt mijn oude vriend te vinden...
+Stage 2:
+Tarod: Hoi. Heb je iets interessants gevonden?
+Tarod: Oh?
+Tarod: Ja! Het is waarschijnlijk de tombe! Maar het lijkt er op dat we hem niet kunnen betreden...
+Tarod: Zijn ziel is waarschijnlijk nog steeds aanwezig op aarde, we moeten hem bevrijden zodat hij eindelijk rust kan vinden.
+Tarod: Ik weet iemand die ons hiermee kan helpen...
+Tarod: Zijn naam is Wedyf. Hij is een krachtige tovenaar die de spreuk die de ingang blokkeert misschien wel kan verwijderen.
+Tarod: Hij woont in Bremminglar, een klein dorp in de buurt van Almuj. Ga hem ontmoeten. Ik zal hier wachten op je terugkomst.
+Stage 3:
+Wedyf: Welkom in mijn hut. Heb je iets nodig?
+Wedyf: Ooh, het is al lang geleden dat ik een ondode heb vrijgelaten....
+Wedyf: De geest van je dode vriend zal nog ergens in deze wereld zijn. Daarom is het niet mogelijk voor ons om dicht bij zijn lichaam te komen. Zielen magie werkt op mysterieuze manieren.
+Wedyf: Maar, geen zorgen. Ik kan het doen. Al zul je me [1 Roos] en [1 Traan van Bob] moeten brengen. Ik zal wachten op je terugkomst.
+Stage 4:
+Wedyf: Mooi, je hebt alles.
+Wedyf: Alhoewel... Ik je misschien ben vergeten te vertellen over iets anders.
+Wedyf: We hebben ook een deel van de ziel van je dode vriend nodig.
+Wedyf: Dit is iets dat ik helaas niet zelf kan doen. Er is een smeed. in de buurt van Ternaves die dit soort dingen doet.
+Wedyf: Hij kan de ziel uit iemand's wapen halen. Zeer nuttig in dit soort situaties.
+Ga met hem praten.
+Wedyf: Breng me de ziel, en ik zal de spreuk die je de toegang tot de tombe verbied kunnen weghalen.
+Stage 5:
+The Blacksmith: Wat kan ik voor je doen?
+The Blacksmith: Oh ja! Ik kan de zielen uit wapens halen!
+The Blacksmith: Breng me de wapens van je vriend en ik zal zien of ik er iets mee kan doen.
+The Blacksmith: [1 Deprimerende Stok], [1 Deprimerende Speer], [1 Deprimerende Boog] en [1 Deprimerende Schaar] zal voldoen.
+Stage 6:
+The Blacksmith: Goed om je te zien.
+The Blacksmith: Alsjeblieft! Hier heb je het! Het is een beetje samengeperst, maar het zal moeten voldoen.
+Stage 7:
+Wedyf: Ik ben blij je weer te zien.
+Wedyf: Ik heb slechts een deel van de ziel nodig, je kunt de rest bewaren.
+Wedyf: Geef me even, ik moet concentreren.
+Wedyf: ...
+Wedyf: ...
+Wedyf: Het is klaar. Je zou de tombe nu moeten kunnen betreden. Wees voorzichtig.
+Stage 8:
+Tarod: Hartelijk bedankt voor je hulp. Ik geloof dat nu de deur open is, hij deze wereld voor goed kan verlaten.
+Tarod: Neem deze, het is zijn oude strijd borstplaat. Ik weet zeker dat hij het niet erg zou vinden nu dat hij het niet meer nodig heeft.

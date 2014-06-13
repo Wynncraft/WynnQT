@@ -1,0 +1,59 @@
+Stage 1:
+Kelight: Ik zie dat je deze machtige tempel wilt betreden, klopt dat?
+Kelight: Enkel de dapperste vechters mogen zich bij ons aansluiten en zichzelf "Legendes" noemen.
+Kelight: Je zult jezelf moeten bewijzen door een krachtig monster te bevechten, die diep in deze grot is verborgen.
+Kelight: Maar eerst, moet ik zeker weten dat je zo zapper bent als dat je zegt.
+Kelight: Breng me [1 Yahya's Vieze Kom], [1 Maltic's Aanbevelingsbrief] en [1 Vervuilde Aardappel].
+Stage 2:
+Kelight: Indrukwekkend, je hebt alles! Maar ik ben nog steeds niet klaar...
+Kelight: Brieng me [1 Bob's Verplette Ziel], [1 Sayleros' Broer zijn As] en [1 Mummy's Verband].
+Stage 3:
+Kelight: Mooi. Misschien ben je wel zo sterk als dat je je voordoet.
+Kelight: Over het wezen dat je moet verslaan,... je hebt een soort van bescherming nodig.
+Kelight: Het is zo krachtig, dat zelfs het binnentreden van de grot je al zwakker zal maken, zelfs met de beste uitrusting!
+Kelight: Er word geloofd dat dit wezen een van de leiders was tijdens de ontdekking van het Onderwereld Portaal....
+Kelight: Het zal je langzaam maar zeker verderven als je niet oppas, en daarom gaan we een speciale helm voor je maken om je te beschermen.
+Kelight: Enkel een licht dat haar oorsprong vind in hetzelfde rijk als het monster kan je beschermen tegen zo'n beest.
+Kelight: Vind het Onderwereld Portaal en spreek met mijn vriend Jorkin. Hij zal waarschijnlijk dichtbij wonen. Hij weet veel over de Onderwereld.
+Stage 4:
+Jorkin: Wauw, ben je echt van plan om dat monster aan te vallen? Ik denk niet dat ooit iemand dat eerder heeft gedaan...
+Jorkin: Helaas voor jou heb ik geen lichtstof meer bij me. Al....
+Jorkin: Al weet ik van een geheime grot vol met dat stof dat je zoekt af!
+Jorkin: Het is in de Onderwereld, zoek het, en spreek weer met me als je het gevonden hebt.
+Stage 5:
+Jorkin: Geweldig! Je hebt het lichtstof gevonden!
+Jorkin: Mmh, al is het niet meer zo fel als het ooit was, iets moet ermee gebeurd zijn.
+Jorkin: Ik weet zeker dat we iets kunnen doen. Ik ken een krachtige tovenaar genaamd Rayshyroth, hij woont op het Mage Eiland.
+Jorkin: Ik weet haast zeker dat hij het stof kan zuiveren.
+Stage 6:
+Rayshyroth: Welkom! Wat brengt je naar ons stille, eenzame eiland, avonturier?
+Rayshyroth: Hmm, ja. Ik heb al tijden geen stof gezuiverd, ik ben bang dat ik je niet kan helpen.
+Rayshyroth: De leraren hier zouden het misschien wel voor je kunnen doe. Vind een Magic Teacher, een van hen zal je vast en zeker kunnen helpen.
+Stage 7:
+Magic Teacher: Natuurlijk kan ik dit stof zuiveren! Al heb ik bepaalde materialen nodig om dit te doen.
+Magic Teacher: Breng me [1 Rood Poeder II], [1 Blauw Poeder II] en natuurlijk [1 Lichtpoeder], dat zal voldoen.
+Stage 8:
+Magic Teacher: Je hebt de materialen. Uitstekend.
+Magic Teacher: Hier is je gezuiverd poeder, veel succes met je quest. Nu we het er toch over hebben, waarom heb je dit eigenlijk nodig?
+Magic Teacher: Oh... je bent echt van plan om het te doen? Ik denk niet dat je doorhebt hoe krachtig dat monster is ...
+Magic Teacher: Hij is de veroorzaker van dit alles! Het is van den zotte om ook maar te denken aan vechten met hem!
+Stage 9:
+Kelight: Je bent terug! En met het gezuiverde poeder, zie ik!
+Kelight: Nu hebben we alleen de helm zelf nog nodig. Mijn vriend Garull is een zeer getalenteerd man , we zouden hem voor hulp moeten vragen.
+Kelight: Hij was geïntrigeerd door de mythische wezens die ze Creepers noemen... wat een dwaas. Creepers, bestaan? Pft! Dat is net zo waarschijnlijk als een Ender Draak die Detlas aanvalt.
+Kelight: Ik heb hem al een lange tijd niet gezien. Je zou hem moeten kunnen vinden met de informatie die ik je gegeven heb. Veel succes.
+Stage 10:
+Garull: Oh god, je liet me schrikken... wie ben jij?
+Garull: J-.. ja, ik kan deze helm voor je maken, maar niet zonder grondstoffen...
+Garull: Breng me [64 Rot vlees] , [64 leer] en [64 Blaze Poeder] en ik kan het voor je maken.
+Stage 11:
+Garull: Ik ben blij om je weer te zien, én je hebt alle materialen!
+Garull: Hier is je helm... ik ben bang dat ik je wel moet waarschuwen..
+Garull: Ik raad je niet aan om dit wezen te bevechten. Ik denk niet dat iemand ooit met hem heeft gevochten en het na heeft kunnen vertellen.
+Stage 12:
+Kelight: Goed werk. Je kunt nu de vervuilde cave in zonder te veel risico te lopen... al zul je je misschien zwakker voelen dan gewoonlijk...
+Kelight: Wees heel voorzichtig, enkel de dood kan je uit deze grot laten ontsnappen. Bid dat je ziel zijn vervuilde hart kan bewaren wanneer hij je dood.
+Stage 13:
+Kelight: .. Je.. je hebt het gedaan?
+Kelight: Verbazingwekkend! Dit is geweldig! Het is veel te lang geleden dat een dappere avonturier dit monster overwonnen heeft!
+Kelight: Ik heb er geen woorden voor... Je bent welkom in de Tempel der Legenden!

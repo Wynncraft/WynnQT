@@ -1,0 +1,28 @@
+Stage 1:
+
+Tinemild: De Toren van Geheugenverlies is de plek waar krachtige avonturiers komen om te vergeten.
+Tinemild: Wat willen ze vergeten? Wie weet. Fouten uit het verleden die ze uit hun geheugen willen verwijderen, waarschijnlijk.
+Tinemild: Misschien ben je wel een van hen? Misschien wil je fouten uit je verleden vergeten?
+Tineland: Helaas kunnen we niet zomaar iedereen in de toren laten.
+Tineland: Bewijs me dat je het waard bent door me een teleportatie rol van elke grote stad in de provincie te brengen.
+Tineland: Dit zal een lange missie worden, het kan meerdere jaren in beslag nemen. Misschien ben je zelfs nog niet sterk genoeg om al deze steden te bezoeken. Laten we beginnen met Ragni. Hopelijk is dit niet te moeilijk voor je. Breng me [1 Ragni Teleportatie Rol] terug.
+Stage 2:
+Tinemild: Mooi. Breng me nu [1 Detlas Teleportatie Rol].
+
+Stage 3:
+Tinemild: Niet slecht. Laten we het nu een beetje moeilijker maken. Breng me [1 Nemract Teleportatie Rol].
+
+Stage 4:
+Tinemild: Geweldig. Laten we zien hoe ver je kunt gaan. Breng me [1 Selchar Teleportatie Rol].
+
+Stage 5:
+Tinemild: Indrukwekkend. Laten we nu zien of je huid het hete klimaat van de woestijn kan verduren. Breng me [1 Almuj Teleportatie Rol].
+
+Stage 6:
+Tinemild: Heel goed! Maar kun je door het koude en brute klimaat van Nessak? Breng me [1 Nessak Teleportatie Rol].
+
+Stage 7:
+Tinemild: Ik ben werkelijk onder de indruk, reiziger Voor de laatste stap, stuur ik je door de dodelijke jungle.
+Tinemild: Breng me [1 Troms Teleportatie Rol]. De toegang zal je hierna verleend worden.
+Stage 8:
+Tinemild: Gefeliciteerd. Je kunt nu de toren binnengaan en je geest zuiveren van je vergissingen uit het verleden.

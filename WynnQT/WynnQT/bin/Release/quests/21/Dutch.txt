@@ -1,0 +1,25 @@
+Stage 1:
+Ormrod: Uh, je had hier niet moeten komen!
+Ormrod: Ik ben vervloekt. Overal waar ik heen ga, beginnen problemen. Dus heb ik besloten weg te blijven van de beschaving, waar ik geen problemen meer kan veroorzaken.
+Ormrod: Het begon allemaal toen ik een oude tombe ontdekte... Toen ik deze betrad begon de grond te schudden en hoorde ik onmenselijke krijsen van det tombe komen.
+Ormrod: Ik ben zo ver als ik kon weggerend. Achteraf kwam ik er achter dat het de tombe van een mummy was.. die ik perongeluk heb gewekt.
+Ormrod: Als je van deze mummy zou kunnen afkomen, gaat de vloek misschien ook weg.
+Ormrod: Achper weet veel over mummies, je zou met hem moeten praten. Hij woont ergens in Almuj.
+Stage 2:
+Achper: Of ik iets over mummies weet? Maar natuurlijk! Ik heb ze mijn leven lang bestudeerd!
+Achper: Meestal zijn ze vrij moeilijk te bereiken, verborgen in hun tombe.
+Achper: Ik weet wat er met Ormrod gebeurd is, en de enige manier om deze krachtige vloek op te heven is door de mummy te vermoorden.
+Achper: De tombe is ten noorde van hier, maar wees voorzichtig!
+Achper: Mummies staan niet bekend voor hun zwakte, vooral die. Hij is... demonisch.. het pure kwaad, ik heb nog nooit zoveel kracht in een wezen gezien.
+Achper: En daarbovenop, eisen bandieten een verraderlijke tol betaling om de tombe te betreden. Ze zullen je niet makkelijk langs laten.
+Stage 3:
+
+Bandit: Ik laat je niet langs tot je me [ 1 block roze wol ] brengt.
+Stage 4:
+Bandit: Je hebt de roze wol gevonden! Mooi. Je mag de tombe betreden, als je dat graag wilt.
+Bandit: Al heb ik al een aantal avonturiers langs gelaten, en nog geen enkele is terug gekomen.
+Stage 5:
+Ormrod: Hallo weer! Wat is dat voor verband?
+Ormrod: Is dat het verband van de mummy?! Je hebt het gedaan! Mijn vloek is eindelijk opgeheven!
+Ormrod: Ik kan je niet genoeg bedanken! Neem dit doek dat ik van de mummy heb genomen toen ik de tombe betrad.
+Ormrod: Ik ben niet sterk genoeg om het te dragen, maar ik weet zeker dat jij dat wel bent! Neem ook deze smaragden, dat is toch wel het minste dat ik kan doen!

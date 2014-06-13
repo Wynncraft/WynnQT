@@ -7,3 +7,12 @@ C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.csproj.GenerateResource
 C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.exe
 C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.pdb
 C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Release\WynnQT.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.exe.config
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.exe
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.pdb
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.exe
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.pdb
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.Properties.Resources.resources
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.WynnQT.resources
+C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.csproj.GenerateResource.Cache

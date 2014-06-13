@@ -1,0 +1,20 @@
+Stage 1:
+Torold: Oh, wat ben ik blij jou te zien! Je had niet op een beter moment kunnen aankomen...
+Torold: Iets vreselijks is gebeurd in een dorpje in de buurt. Something horrible happend to a village nearby! Iedereen werd plotseling krankzinnig...
+Torold: Mijn vriend Lekal was bij het dorpje toen het gebeurde. Ik weet niet of hij daar veilig is.
+Torold: Als hij dat is, heeft hij zich waarschijnlijk ergens verstopt voor de dorpelingen. Zou je hem voor me willen vinden? Misschien heeft hij eten nodig of iets dergelijks.
+Torold: Volg het pad naar het zuid-westen, je zult hem vinden in het dorpje. Wees voorzichtig!
+Stage 2:
+Lekal: Wie ben jij? Waarom ben je niet verontreinigd zoals de anderen?
+Lekal: Oh! Ik had niet verwacht dat avonturiers nog steeds naar dit dorpje kwamen...
+Lekal: Alles liep een paar dagen geleden helemaal uit de hand, ik moest me hier beneden verstoppen. Vergeef me alsjeblieft voor het moeilijke pad dat ik heb gecreëerd.
+Lekal: Dit dorpje was in orde en populair onder de avonturiers, tot ze dat vervloekte onderwereld portaal vonden!
+Lekal: De monsters begonnen de hele provincie binnen te vallen! En langzaam maar zeker werd de hele omgeving verontreinigd met waanzin en wanhoop.
+Lekal: Ik ben blij je te zien. Het lijkt er op dat de Koning van Ragni eindelijk iets er aan doet.
+Lekal: In ieder geval, ik heb echt eten nodig, maar ik kan niet naar buiten. De meeste van hen zouden me vermoorden.
+Lekal: Breng me [3 drankjes van dronkenheid] en [5 aardappels], daar kan ik wel een aantal dagen op overleven. Dat is alles wat ik nodig heb.
+Stage 3:
+Lekal: Ik ben blij dat je het gered hebt.
+Lekal: Je hebt alles, fantastisch! Ik heb een aantal smaragden om je mee terug te betalen, hier, neem ze alsjeblieft.
+Lekal: Hartelijk bedankt voor je hul- Oh, kijk, het lijkt er op dat deze aardappel vervuild is geraakt...
+Lekal: Ik kan beter snel vertrekken voordat het ook met mij gebeurd...

@@ -1,0 +1,14 @@
+Steg 1
+Enzan: Jag ser att du vill ge sig ut i vildmarken!
+Enzan: Mitt namn är Enzan, och jag är nu en pensionerad riddare. Jag har tillbringat större delen av mitt liv kämpar för Ragnis armé, precis som du.
+Enzan: Jag vet hur svårt det måste vara att vara rekrytera vid denna tid, så jag fick något som kan hjälpa dig ! Tja, jag har inte det , men min bror gör!
+Enzan: Följ vägen, han är vid ingången till Nivla skogen, kan du inte missa honom.
+Enzan: Säg att jag skickade dig! Han kan vara en sådan idiot mot främlingar ibland...
+
+Steg 2
+Therck: Ser du inte att jag är upptagen?
+Therck: Åh, min bror? Förlåt, jag visste inte.
+Therck: Ja du, jag har faktiskt något som kan hjälpa dig...
+Therck: Detta röda pulvret kommer att förtrolla dina vapen och rustningar med en kraftig brandmagi.
+Therck: För att använda det , lägg pulvret och ditt vapen i crafting tabellen, i ditt lager.
+Therck: Nu var försiktig när du utforskar denna skog, få människor kommer ut levande...

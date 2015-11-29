@@ -1,0 +1,27 @@
+Stage 1
+Talk to Farmer Kelri near Ragni at [-756,67,-1661]
+Dialogue:
+Farmer Kelri: Oh ho ho! A fresh recruit!
+Farmer Kelri: Good to see the army is starting to grow again! I've been waiting for a bit of help from someone with some backbone!
+Farmer Kelri: You see, I have a bit of a rat infestation on my farm.
+Farmer Kelri: Nothing I can't handle myself I assure you! But you see, one of the blighters stole my wedding ring, and my wife would kill me if she ever found out.
+Farmer Kelri: I don't know which one took it, but if she sees me looking for it, she will find out. So could you go thump a few of them and find it?
+Farmer Kelri: Bring me back [1 Wedding Ring] as soon as you find it! Oh, and, don't tell my wife. If you're able to help me, I'll reward you kindly!
+Stage 2
+Kill Rats until they drop a wedding ring and return to Farmer Kelri
+Dialogue:
+Farmer Kelri: Oh, back so soon? That means you found it!
+Farmer Kelri: Here, give it to me, and hopefully my wife won't see.
+Farmer Kelri: Oh...
+Farmer Kelri: ... This isn't my ring. This is a washer! The dang rodents must be in the nest! They really will eat anything.
+Farmer Kelri: Maybe you could take a look in their hive for me? I know, it is a horrible place and I've been meaning to close it up.
+Farmer Kelri: But the chances are the rat we're looking for is in there. Its over in the field, and don't forget to make sure my wife doesn't see you.
+Farmer Kelri: Bring me [1 Wedding Ring] as soon as you take care of the rat who stole it!
+Farmer Kelri: The nest is in the cave right over there.
+Stage 3
+Find the ring in the hive and return to Farmer Kelri
+Dialogue:
+Farmer Kelri: Ohh, you found it! Thank the king! I think I might have gotten away with this afterall!
+Farmer Kelri: Well, thank you very much soldier. Are you looking to head to Detlas soon? Its the hub city of the whole province, everyone goes there!
+Farmer Kelri: I wanted to go once, but my wife wouldn't let me. You should go! Just follow the emerald trail through the forest.
+Farmer Kelri: There are dangerous monsters there though, so make sure you are strong enough. Anyway, heres a small reward for helping me out.

@@ -1,0 +1,19 @@
+Stage 1
+Talk to Ooni in Ragni's Prison
+Dialogue:
+Ooni: Oh! I am so glad to see you!
+Ooni: My name is Ooni, and I've been detained in this cell for over 20 years now!
+Ooni: A kind adventurer named Waront was about to give me the key to escape, but he got scared away by some guards!
+Ooni: He is probably hiding in the sewers. If you could get the key back to me, it would be wonderful!
+Stage 2
+Find Waront in the sewers and take the key
+Dialogue:
+Waront: Wo! You're not with the guards, are you?
+Waront: Thank god! Yes, I do have the key, here it is.
+Waront: Hopefully we can free the prisoner...
+Stage 3
+Bring back 1 Prison Key to Ooni
+Dialogue:
+Ooni: Wonderful! You got the key!
+Ooni: Although, I got kind of used to this cell, I think I'll stay for a bit.
+Ooni: However, I am not greedy! Here's something to thank you.

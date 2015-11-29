@@ -1,0 +1,17 @@
+Stage 1
+Talk to Enzan close to the exit of Ragni.
+Dialogue:
+Enzan: I see you want to venture into the wilderness!
+Enzan: My name is Enzan, and I am now a retired knight. I've spent most of my life fighting for Ragni's army, just like you.
+Enzan: I know how hard it must be to be recruit at this time, so I got something that could help you! Well, I don't have it, but my brother does!
+Enzan: Follow this road, he's at the entrance of the Nivla Forest, you can't miss him.
+Enzan: Tell him I sent you! He can be such a jerk to strangers sometimes...
+Stage 2
+Find Enzan's Brother Therck at the entrance to the Nivla Forest to complete the quest.
+Dialogue:
+Therck: Can't you see I'm busy?
+Therck: Oh, my brother? Sorry, I didn't know.
+Therck: Why yes, I actually have something that could help you...
+Therck: This Red Powder will enchant your weapons and armor with a powerful fire magic.
+Therck: To use it, put the powder and your weapon in the crafting table, in your inventory.
+Therck: Now be careful while exploring this forest, few people come out alive...

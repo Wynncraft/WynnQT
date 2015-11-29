@@ -1,0 +1,15 @@
+1:
+Ooni: ¡ Oh ! ¡ Me alegro tanto de verte !
+Ooni: ¡ Mi nombre es Ooni y he estado atrapado en esta celda por más de 20 años ¡
+Ooni: ¡ Un amable aventurero estaba a punto de darme la llave para escapar, pero unos guardas lo espantaron !
+Ooni: Probablemente se esté ocultando en las cloacas. ¡ Si pudieras traerme la llave sería fantástico !
+
+2:
+Waront: ¡ Wo ! ¿ No estas de parte de los guardas, verdad ?
+Waront: ¡ Gracias a Dios ! Sí, sí que tengo la llave, aquí está.
+Waront: Ojalá podamos liberar al prisionero…
+
+3:
+Ooni: ¡ Fantástico ! ¡ Tienes la llave !
+Ooni: Aunque, me he acostumbrado un tanto a esta celda, creo que me quedaré durante un tiempo.
+Ooni: ¡ De todos modos, no soy un avaro ! ¡ Aquí tienes algo para darte las gracias !

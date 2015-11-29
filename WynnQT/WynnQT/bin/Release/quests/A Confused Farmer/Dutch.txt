@@ -1,0 +1,54 @@
+Stage 1:
+
+Bylvis: Hmm... Iets lijkt hier niet te kloppen.
+Bylvis: Een... Twee... Drie... Nee, helemaal niet goed!
+Bylvis: Oké, iedreen klaar, iedereen, inspectie!
+Etus: Moo.
+Bylvis: Perfect, perfect. Delny? Hebben we een Delny hier?
+Delny: Moo moo!
+Bylvis: Mooi, Elmis? Ben je er?
+Elmis: Moo!
+Bylvis: Okay dan is de enige die nog over is Drale.
+Bylvis: D- Drale? Ben je er?
+Bylvis: ...
+Bylvis: Hé jij! Kun je even bij Drale gaan kijken voor me? Rechts van je.
+Stage 2:
+
+(Text that shows up if you enter Drales stable)
+Je vindt een karavaan ticket naar de Detlas Voorstad. misschien zou je Bylvis hierover moeten vertellen.
+
+Stage 3:
+
+Bylvis: Detlas voorstad, hm?
+Bylvis: Luister, ik ken Drale als mijn broekzak.
+Bylvis: En ik weet dat Drale is te zwak is om het daarbuiten alleen te zijn!
+Bylvis: Dus je moet me beloven dat hij hier terug zal zijn, en dat hij veilig zal zijn.
+Bylvis: Echt? Heel erg bedankt! Haast je! Drale zal zo bang zijn!
+Stage 4:
+
+Drale: Mo- Wacht eens, je bent niet meer in de stal Drale, spreek als een normaal persoon. Hallo Avonturier!
+Drale: Ja... Ik ben Drale. Laat me raden. Bylvis heeft je gestuurd om me te vinden?
+Drale: Ik liep gewoon bij de ranch een paar jaar geleden, toen hij ineens verward begon te praten, "....... prachtigste koe die ik ooit gezien heb!"
+Drale: En hoe hij me "gewoon moest hebben". Ik heb nog geprobeerd om weg te rennen, maar hij deed me een riem om.
+Drale: Drie jaar lang heb ik geprobeerd om van die waanzinnige te ontsnappen.
+Drale: Hij stopte met mensen in mijn hok laten, hij deed me een enkelband om. Het leek onmogelijk.
+Drale: Maar op een nacht, heb ik weten te ontsnappen met de hulp van Etus.
+Drale: Ik wil niet teruggaan, maar je bent op een perfect moment langs gekomen.
+Drale: Ik wil niet dat dit iemand anders overkomt. Kun je terug gaan en hem alles vertellen?
+Stage 5:
+
+Bylvis: Je bent terug! Waar is Drale? Is hij okay?
+Bylvis: Wacht, Drale is geen koe? Je maakt een grap zeker, al die jaren dat hij hier in het hok heeft gezeten...
+Bylvis: Heeft hij nooit er aan gedacht om me te vertellen dat hij een persoon is? Ook maar een enkel woord te zeggen?
+Bylvis: Nou, ik voel me alsnog wat verantwoordelijk. Ik was best wel wat dronkenheid drankjes aan het drinken de nacht dat ik hem vond..
+Bylvis: Luister, doe hem de groeten van me. Ik hoop dat hij wonderlijke dingen doet daar bij Detlas.
+Bylvis: En, hé. Hij kan een paar van mijn smaragden hebben, Dat is het minste dat ik kan doen voor het ontvoeren en gijzel nemen voor de afgelopen drie jaar.
+Stage 6:
+
+Drale: Wacht... Je bent gewoon.. naar hem toe gegaan en hebt hem verteld dat ik geen koe was?
+Drale: Was het zo makkelijk?
+Drale: Ik gng er gewoon vanuit dat iemand die gek genoeg was om een persoon te vergissen met een koe niet van rede vatbaar was.
+Drale: Dus ik heb net drie jaar van mijn leven voor niets gevangen gezeten. Tenzij hij me natuurlijk iets heeft gestuurd als verontschuldiging?
+Drale: Niets? Serieus? Niet eens een paar smaragden?
+Drale: Je zou toch wel denken dat hij zich schuldig genoeg voelt om me tenminste iets terug te geven voor die drie jaar van mijn leven die hij verpest heeft.
+Drale: Achjja, ik zal wel iets te optimistisch zijn.

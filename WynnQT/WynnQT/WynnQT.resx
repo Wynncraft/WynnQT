@@ -118,22 +118,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>Credits:
-Translation Manager: handschaf
-Program Development: Acer78
-Icon Art: Luxio
-Portugese: TH3_EDuaRD0_720, blue89962 and GudidiMC
+    <value>Translation Managers: handschaf, Yunogasai
+Program Development: Acer
+Portugese: TH3_EDuaRD0_720, blue89962, GudidiMC
 Spanish: Chbar
 czech: s3ok
 Norwegian: kenan89
 Greek: branthecan
 Korean: Noobgalaxies
-French: Jbip
+French: Jbip, le_mega_barbare
 Chinese: jimmylism and jasonvong
 Swedish: GAsplund
 Latvian: TheLeo
 Dutch: 2zqa, JJTH
-German: handschaf</value>
+German: handschaf
+Hebrew: Yunogasai, TheBonus1UP</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

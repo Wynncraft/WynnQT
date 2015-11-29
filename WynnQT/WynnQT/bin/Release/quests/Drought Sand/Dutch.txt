@@ -1,0 +1,16 @@
+Stage 1:
+Chilye: Avonturier! Ons volk heeft je nodig!
+Chilye: Ik ben zo blij dar je hier heen bent gekomen. Het gaat de laatste tijden niet zo goed met Almuj...
+Chilye: De regen is gestopt en een verschrikkelijke droogte heeft ons geraakt.
+Chilye: We kunnen onze smaragden niet drinken en onze voorraden raken op!
+Chilye: Heb je Irt ontmoet? Ik raad je aan om hem te spreken, hij heeft de leiding over de hulp met dit probleem die ons stadje ontvangt.
+Chilye: Hij woont aan de oost-kant van de stad. Help ons alsjeblieft, ik smeek je!
+Stage 2:
+Irt: Het spijt me, ik heb geen tijd om met je te praten. Water neemt af, en ik ben verantwoordelijk om meer te vinden.
+Irt: Oh, het spijt me. Ik wist niet.. Ik ben blij om je aan boord te hebben! Je zult daadwerkelijk van pas komen.
+Irt: Onze planten zijn op snel tempo aan het afsterven. We hebben water en mest nodig om hen te helpen!
+Irt: Ik zal de Golem Bewakers laten weten dat je de bank mag betreden. Laat me geen spijt krijgen van deze beslissing.
+Irt: Breng me [24 Flesjes Water] en [24 Vermorzelde Insecten] terug zo snel als je kunt!
+Stage 3:
+Irt: Mooi! Je hebt alles!
+Irt: Hartelijk bedankt voor je hulp! Dit zal ons nog een paar dagen rust geven.

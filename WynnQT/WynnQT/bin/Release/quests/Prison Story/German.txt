@@ -1,0 +1,15 @@
+Stage 1
+Ooni: Oh! Ich bin froh dich zu sehen!
+Ooni: Mein Name ist Ooni und ich stecke nun schon über 20 Jahre in dieser Zelle fest!
+Ooni: Ein netter Abenteurer namens Waront war dabei mir den Schlüssel für diese Zelle zu bringen, er wurde aber von ein paar Wachen vertrieben.
+Ooni: Er versteckt sich wahrscheinlich in der Kanalisation. Ich währe dir sehr dankbar wenn du mir den Schlüssel bringen könntest!
+
+Stage 2:
+Waront: Oh! Du hast keine Wachen mitgebracht?
+Waront: Gott sei dank! Ja, ich habe den Schlüssel, hier ist er.
+Waront: Hoffentlich können wir diesen Gefangenen befreien...
+
+Stage 3:
+Ooni: Wunderbar! Du hast den Schlüssel!
+Ooni: Obwohl, ich habe mich an diese Zelle gewöhnt, ich denke ich werde noch ein Weilchen bleiben.
+Ooni: Trotzdem, ich möchte nicht undankbar sein! Hier ist etwas das dir gefallen könnte.

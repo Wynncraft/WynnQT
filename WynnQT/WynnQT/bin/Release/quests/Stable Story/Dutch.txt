@@ -1,0 +1,13 @@
+Stage 1:
+Enkser: Maar hallo daar! Jij lijkt me wel het soort avonturier die een trouwe knol kunt gebruiken, toch? Ja!
+Enkser: Nou, normaal gesproken zou ik mijn paarden verkopen voor een mooie winst, maar ik heb eigenlijk wat hulp nodig. Ik zal je een van mijn beste paarden geven als je het doet!
+Enkser: Breng me [12 Tarwe] voor onze paarden! Er zijn wat verkopers rond... Ragni.. een stukje lopen kan geen kwaad, toch?
+
+Stage 2:
+Enkser: Ik ben blij om je terug te zien. Met het tarwe nog wel!
+Enkser: Mooi zo! Hier is je paard, zoals beloofd. Je weet hoe je ze moet gebruiken, toch?
+Enkser: Oh.. god.. Okay, laat me je de basis kneepjes aanleren ...
+Enkser: Je kunt paarden trainen door met ze te reizen. Hoe hoger de kwaliteit van je paard is, hoe sneller je kunt gaan.
+Enkser: Je kunt een hogere tier paard krijgen door ze te fokken. Voeg twee zadels samen in het werk gedeelte van je inventaris om dat te doen.
+Enkser: Maar wees voorzichtig als je dat doet, je zou met een veel slechter paard kunnen eindigen!
+Enkser: In ieder geval, je kunt met de paarden verkoper daar zo spreken om meer paarden te krijgen om te fokken. Veel succes!

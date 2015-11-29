@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
@@ -16,74 +10,38 @@ namespace WynnQT
         public WynnQT()
         {
             InitializeComponent();
-            questSelect.SelectedIndex = 0;
+            textBox1.RightToLeft = RightToLeft.Yes;
+            string[] langs = File.ReadAllLines("quests/info/langs.txt"); languageSelect.Items.AddRange(langs);
+            string[] quests = File.ReadAllLines("quests/info/quests.txt"); questSelect.Items.AddRange(quests);
             languageSelect.SelectedIndex = 0;
+            questSelect.SelectedIndex = 0;
             fontSize.SelectedIndex = 3;
             fontColor.SelectedIndex = 2;
             backColor.SelectedIndex = 0;
+            textBox1.RightToLeft = RightToLeft.No;
         }
         #region readFiles
         public void readFiles()
         {
+            string[] langs = File.ReadAllLines("quests/info/langs.txt");
+            string[] quests = File.ReadAllLines("quests/info/quests.txt");
             try
             {
-                int q = questSelect.SelectedIndex + 1;
-                string lang;
-                switch (languageSelect.SelectedIndex)
-                {
-                    case 0:
-                        lang = "English";
-                        break;
-                    case 1:
-                        lang = "German";
-                        break;
-                    case 2:
-                        lang = "Spanish";
-                        break;
-                    case 3:
-                        lang = "Portugese";
-                        break;
-                    case 4:
-                        lang = "Latvian";
-                        break;
-                    case 5:
-                        lang = "Swedish";
-                        break;
-                    case 6:
-                        lang = "Chinese";
-                        break;
-                    case 7:
-                        lang = "French";
-                        break;
-                    case 8:
-                        lang = "Dutch";
-                        break;
-                    case 9:
-                        lang = "Korean";
-                        break;
-                    case 10:
-                        lang = "Greek";
-                        break;
-                    case 11:
-                        lang = "Norwegian";
-                        break;
-                    case 12:
-                        lang = "Czech";
-                        break;
-                    default:
-                        lang = "English";
-                        break;
-                }
-                string translation = File.ReadAllText("quests/" + q.ToString() + "/" + lang + ".txt");
+                string translation = File.ReadAllText("quests/" + quests[questSelect.SelectedIndex] + "/" + langs[languageSelect.SelectedIndex] + ".txt");
                 if (translation != "") { trans.Text = translation; } else { trans.Text = "No translation for this quest/language combination yet!"; }
+                if (langs[languageSelect.SelectedIndex] == "Hebrew") { trans.RightToLeft = RightToLeft.Yes; }
+                else { trans.RightToLeft = RightToLeft.No; }
             }
             catch (DirectoryNotFoundException)
             {
-                trans.Text = "Translation file missing or corrupt!";
+                Directory.CreateDirectory("quests/" + quests[questSelect.SelectedIndex]);
+                File.WriteAllText("quests/" + quests[questSelect.SelectedIndex] + "/" + langs[languageSelect.SelectedIndex] + ".txt", "", System.Text.Encoding.UTF8);
+                readFiles();
             }
             catch (FileNotFoundException)
             {
-                trans.Text = "Translation file missing or corrupt!";
+                File.WriteAllText("quests/" + quests[questSelect.SelectedIndex] + "/" + langs[languageSelect.SelectedIndex] + ".txt", "", System.Text.Encoding.UTF8);
+                readFiles();
             }
         }
         #endregion
@@ -94,7 +52,8 @@ namespace WynnQT
         }
         private void languageSelect_SelectedIndexChanged(object sender, EventArgs e)
         {
-            readFiles();
+            if (textBox1.RightToLeft == RightToLeft.Yes) { }
+            else { readFiles(); }
         }
         #endregion
         #region fontChange
@@ -145,7 +104,7 @@ namespace WynnQT
                     case 10: trans.BackColor = Color.Violet; break;
                     case 11: trans.BackColor = Color.Pink; break;
                 }
-                trans.Font = new System.Drawing.Font("Cambria", size, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                trans.Font = new Font("Cambria", size, FontStyle.Regular, GraphicsUnit.Point, ((byte)(0)));
                 trans.Update();
             readFiles();
         }

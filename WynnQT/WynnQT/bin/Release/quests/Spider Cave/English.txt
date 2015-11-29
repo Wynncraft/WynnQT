@@ -1,0 +1,11 @@
+Stage 1
+Talk to Hatath in Nivla Woods
+Dialogue:
+Hatath: Hello there, young traveler! I can see that you are looking for a challenge.
+Hatath: Well I got one for you. You see, I am looking for a specific plant named "Saccharum"
+Hatath: I've heard that this cave may contain some! Unfortunately, it is infested by Spiders.
+Hatath: I am not strong enough to risk this. Could you explore this new cave and bring me [3 Saccharum] as soon as you can?
+Stage 2
+Bring back 3 Saccharum to Hatath, that appears at the bottom of the cave.
+Stage 3
+Bring 3 Saccharum to Hatath

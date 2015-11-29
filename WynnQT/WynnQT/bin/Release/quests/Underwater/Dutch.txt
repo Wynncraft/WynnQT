@@ -1,0 +1,26 @@
+Stage 1:
+
+Omango: Hé, mijn naam is Omango. Ik ben een inwoner van het Maltic dorpje, daar boven op die heuvel.
+Omango: Zoals je misschien al wel wist, zijn onze mensen hier jaren geleden aangekomen. Dit is het schip dat ze gebruikten.
+Omango: Ze hebben veel luxerieuze goederen met zich meegebracht. De meesten hiervan zijn verloren gegaan in de schipbreuk.
+Omango: Maar recentelijk heeft dit gat dat je kunt zien zich geöpend. Men gelooft dat een verborgen fortuin zich plaats vind onder de golven.
+Omango: Helaas is het nog niemand gelukt om dit gat te onderzoeken. Het water is te diep! Niemand kan daar zo lang overleven!
+Omango: Mijn oude vriend Sayrr is een visser, en ik weet dat hij een zeer speciale helm heeft...
+Omango: Als je deze helm in handen kunt krijgen en de schat kunt vinden, krijg je van mij een deel ervan!
+Omango: Sayrr is waarschijnlijk niet ver van hier aan het vissen, op zijn boot. Spreek met hem, hij kan ons helpen. Hij heeft een groter hart dan je zou denken.
+Stage 2:
+
+Sayrr: Wat kijk je vreemd? Wat, is het dat ik klein ben? Ik kan je laten weten dat ik vissen heb gevangen die twee keer zo groot als jij waren!
+Sayrr: Maar... waarom ben je aan boord van mijn boot geklommen, vreemdeling?
+Sayrr: Ah-hah! Ja, ik heb die stomme ademhalings helm nog steeds. Wil je hem hebben? Dan zal je eerst iets voor me moeten doen.
+Sayrr: Het zit namelijk zo, ik ben de laatste drie dagen hier aan het vissen, en het lukt niet zo goed. Ik wil niet terug naar Nemract gaan om eten te kopen.
+Sayrr: Haal me iets te eten en drinken, [3 Varkenszombie's Vlees] en [1 Flesje Water] will suffice. Ik ben in de groei! Ik heb goede voeding nodig!
+Sayrr: Daarna zal de helm helemaal voor jou zijn.
+Stage 3:
+
+Sayrr: Ah! Welkom terug! Heb je het eten en drinken?
+Sayrr: Mooi. Hier is je helm, veel plezier ermee.
+Stage 4:
+
+Omango: Je hebt het! Je hebt de schat gevonden!
+Omango: Zoals beloofd, hier is jouw deel van de buit!

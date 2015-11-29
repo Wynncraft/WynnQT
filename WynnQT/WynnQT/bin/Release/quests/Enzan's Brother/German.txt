@@ -1,0 +1,14 @@
+Stage 1:
+Enzan: Ich sehe du willst dich in die Wildniss wagen!
+Enzan: Mein Name ist Enzan, und ich bin nun ein veralteter Kämpfer. Ich habe viel meiner Zeit damit verbraucht für Ragnis Armee zu kämpfen, genau wie du.
+Enzan: Ich weis wie schwer es ist ein Rekruit zu dieser Zeit zu sein also habe ich etwas, dass dir helfen könnte! Also, ich habe es nicht, aber mein Bruder!
+Enzan: Folge dieser Straße, er wartet am Einganz zum Nivla Forest, du kannst ihn nicht verpassen.
+Enzan: Sag ihm ich habe dich geschickt! Er kann manchmal ein Rüpel gegenüber fremden Menschen sein...
+
+Stage 2:
+Therck: Kannst du nicht sehen, dass ich beschäftigt bin?
+Therck: Oh, mein Bruder? Es tur mir leid das wusste ich nicht.
+Therck: Ja, ich habe etwas das dir helfen könnte...
+Therck: Dieser rote Staub wird deine Waffen und Rüstungen mit starker Magie verzaubern.
+Therck: Um es zu benutzen lege den Staub und die Waffe in das Handwerksfenster in deinem Inventar.
+Therck: Und jetzt sei vorsichtig während du den Wald erkundest, nur wenige sind je wieder herausgekommen.

@@ -1,0 +1,15 @@
+Stage 1
+Talk to the The Cook in Ragni
+Dialogue:
+The Cook: I can't believe what is happening to me!
+The Cook: The King ordered me to bake cakes for all those new recruits!
+The Cook: Unfortunately I don't have the ingredients to make them and nobody sells those items in the fort!
+The Cook: You think you could get me [2 Egg], [1 Bucket of Milk] and [3 Wheat] really quickly?
+Stage 2
+Find 2 Eggs, 1 Milk and 3 Wheat for the The Cook
+Stage 3
+Return to the The Cook
+Dialogue:
+The Cook: Great! You got all the ingredients!
+The Cook: I can't thank you enough! Here, take these Emeralds for all your trouble.
+The Cook: I also have these strange potions. I have no use for them, but I'm sure you do!

@@ -1,0 +1,14 @@
+1:
+Enzan: Veo que quieres aventurarte en la salvaje naturaleza !
+Enzan: Mi nombre es Enzan, y ahora soy un caballero retirado. He pasado la mayor parte de mi vida luchando en la armada de Ragni, como tú.
+Enzan: ¡ Sé lo difícil que debe ser un recluta en estos tiempos, así que tengo algo que podría ayudarte ! ¡ Bueno, yo no lo tengo, pero mi hermano sí !
+Enzan: Sigue esta carretera, está a la entrada del Bosque Nivla, no tiene perdida.
+Enzan: ¡ Dile que te envío yo ! Puede ser tan antipático con los extraños a veces...
+
+2:
+Therck: ¿ No puedes ver que estoy ocupado ?
+Therck: ¿ Oh, mi hermano ? Lo siento, no lo sabía.
+Therck: Pues sí, en realidad sí que tengo algo que podría ayudarte...
+Therck: Este Polvo Rojo encantará tu armadura y armas con una poderosa magia de fuego.
+Therck: Para usarlo, pon el polvo y tu arma o armadura en la casilla de construcción, en tu inventario.
+Therck: Ahora ten cuidado mientras exploras este bosque, poca gente sale viva...

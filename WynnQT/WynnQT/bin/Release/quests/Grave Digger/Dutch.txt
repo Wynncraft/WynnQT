@@ -1,0 +1,33 @@
+Stage 1:
+
+Sayleros: Je ziet er uit als een sterke avonturier die mij vast wel kan helpen!
+Sayleros: Mijn naam is Sayleros. Ik heb het meerendeel van mijn leven in Maltic doorgebracht, maar ik heb besloten om in Detlas te komen wonen samen met mijn familie, een paar weken geleden.
+Sayleros: Echter zijn we aangevallen door dieven op weg hier heen, en heb ik mijn familie achter moeten laten. Helaas zijn de meeste van hen gestorven.
+Sayleros: Ik weet dat mijn broer zijn testament bij zich had tijdens de aanval. Wetend dat hij een rijke gozer was, verwacht ik een groot deel van zijn fortuin te ontvangen.
+Sayleros: Zijn lichaam was ergens in Nemract begraven. Ik bezit een grote begraafplaats daar. Ik kan je er toegang tot verschaffen als je me zijn testament terug brengt.
+Sayleros: Een van mijn broers heeft de aanval ook overleefd. Hij is niet .. ehm.. iemand.. die ik bepaald vertrouw, maar ik weet zeker dat hij wat bruikbare informatie voor je zal hebben.
+Sayleros: Zijn naam is Drucksh. Hij praat meestal graag veel als hij dronken is, zie of je daar iets mee kan doen.
+Sayleros: Ik zal hier op je wachten tot je terugkomt! Volg dit pad, het zal je direct naar Nemract brengen. Veel succes!
+Stage 2:
+
+Before Potion of Drunkness
+Drucksh: Mmh. g... uh! oh heey daar.
+Drucksh: Mijn broer? Oh ja, ik weet waar hij "begraven" is, maar wil ik dat jou vertellen? Nee. Dat zijn jouw zaken niet.
+After Potion of Drunkness
+Drucksh: Ohh mmhhhgg... g-g-goeie oude Nemract whiskey!
+Drucksh: P-prima. Misschien kan het ook geen k-kw-kwaad om je te.. *boer* ..vertellen w-waar het .. h-hij is...
+Drucksh: Het is in de oude ka-k-kathedraal. Aan het einde van de stad. 
+Loop naar het oosten, het zou recht bij de b-b-brug moeten zijn.
+Drucksh: Al zal de p-pr-priester je niet zo makkelijk naar binnen laten...
+Stage 3:
+
+De Priester: Probeer je hieronder in de grafkelder te komen? Oh, dat is een heel slecht idee.
+De Priester: Deze plaats is verontreinigd en de doden kwamen terug tot leven. We hebben de trappen moeten slopen om deze kathedraal te beschermen.
+De Priester: Als je echt naar binnen wilt, zal ik het moeten zuiveren, zodat het jou niet verderft.
+De Priester: Breng me [24 Rottend Vlees], dat zal genoeg moeten zijn. Oud Nemract is vol met zombies, het ligt in het zuid-westen. t
+Stage 4:
+De Priester: Je hebt het vlees. Mooi.
+De Priester: He zal nu.. "veilig" moeten zijn. Maar pas goed op, je betreed op eigen risico.
+Stage 5:
+
+Sayleros: Brilliant! Het is een beetje stoffig, maar dit zal voldoen. Hier, neem dit als bewijs van mijn dankbaarheid!

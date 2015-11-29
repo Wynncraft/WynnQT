@@ -1,0 +1,15 @@
+Stage 1:
+Twendle: Oh, hé, jij daar. Was je van plan deze richting uit te gaan? Je weet dat het doodloopt, toch?
+Twendle: Het leid naar een oude, vervallen villa.
+Twendle: Die villa is het huis van mijn voorvader, Dwendle Twain. Het was het huis van een ongelofelijk erfgoed en magische krachten, Dwendle zelf werd er in overgenomen.
+Twendle: Marius Twain was de leider van de villa, ze vochten samen tegen kwade geesten. Ik denk dat de geschiedenis van het huis niet echt bekend is buiten een boek.
+Twendle: Ik wil de ware geschiedenis van de villa ontdekken en al haar geheimen. Maar elke keer dat ik dichtbij kom, voorkomen duistere wezens dat ik het erfgoed betreed.
+Twendle: Ik ben geen soldaat en ik denk niet dat ik ooit de waarheid boven water kan brengen zonder jouw hulp. Ik kan je rijkelijk belonen als je me helpt.
+Twendle: Mijn voorouders hebben onze familie een groot aantal smaragden nagelaten. Kijk wel uit, reiziger, de villa's geheimen zijn onwijs moeilijk en de monsters zeer krachtig.
+Twendle: Ontrafel de geheimen van de villa en help me de geheimen van mijn erfgoed bloot te leggen. Breng me [1 Twain Dagboek].
+Twendle: Dit boek is verborgen in de dieptes van de villa en is beschermd door meer dan puzzels en muren.
+Twendle: Ik geloof dat de geesten die in de villa rondspoken alles er aan zullen doen om het boek te beschermen. Ik weet zeker dat ze denken dat het van hen is, evenals de geheimen die het verbergt.
+Stage 2:
+
+Twendle: Zo te zien heb ik mijn geloof in de goede persoon gestopt. Mijn geschiedenis staat op deze pagina's en ik ben niet van plan ze geheim te houden, ik ga ze publiekelijk maken.
+Twendle: Bedankt, reiziger. Zoals beloofd, is hier je beloning!

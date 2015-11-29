@@ -1,0 +1,18 @@
+1:
+Caravan Driver: Beidzot, tu pamodies! Es sāku uztraukties...
+Caravan Driver: Mūsu karavānai nokrita ritenis pirms dažām stundām, mums būs jānotiet ar kājām atlikušis ceļš.
+Caravan Driver: Pārējie pasažieri jau ir devišies ceļā, tev viņiem vajadzētu pievienoties! Karalis gaida tevi.
+Caravan Driver: Bet pirms tu dodies ceļā, paņem šo smaragdus un nopērc sev bruņas, šeit nevienmēr ir droši...
+Caravan Driver: Atceries izmantot savas spējas ja esi iekļuvis briesmās! Mēs nekad nezinām kas var notikt...
+
+2:
+Honynn: Zombiji! Mums uzbrūk! Aizstāvi mūs!
+Honynn: Neuztraucies par mums! Turpini iet! Karalis gaida tevi!
+
+3:
+The King: Aaah! Jauns rekurtieris! Tu atnāci tieši laikā!
+The King: Laipni lūgts Wynn provincē!
+The King: Šo pilsētu sauc par Ragni, viena no vecākajām un visskaistākajām vietām pasaulē!
+The King: Tavs darbs ir apturēt monstrus, kas dzīvo šajā pasaulē.
+The King: Tu varēt palikt šeit kādu ilgāku laiku, kamēr kļūsti pieredzējis... Daudzas dzīvības tiek izniekotas katru dienu...
+The King: ... Lai veicas! Ja jūties pazaudējies, izmanto wynncraft.com/map! Tā ir ōti noderīga pašā sākumā.

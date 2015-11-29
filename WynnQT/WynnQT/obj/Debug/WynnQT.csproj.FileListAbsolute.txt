@@ -7,3 +7,12 @@ C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Debug\WynnQT.WynnQT.resources
 C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Debug\WynnQT.csproj.GenerateResource.Cache
 C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Debug\WynnQT.exe
 C:\Users\Acer\Documents\WynnQT\WynnQT\obj\Debug\WynnQT.pdb
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Debug\WynnQT.exe.config
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Debug\WynnQT.exe
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Debug\WynnQT.pdb
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Debug\WynnQT.exe
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Debug\WynnQT.pdb
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Debug\WynnQT.csprojResolveAssemblyReference.cache
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Debug\WynnQT.Properties.Resources.resources
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Debug\WynnQT.WynnQT.resources
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Debug\WynnQT.csproj.GenerateResource.Cache

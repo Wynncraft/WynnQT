@@ -1,0 +1,10 @@
+Stage 1:
+
+Hatath: Hé daar, jonge reiziger! Ik kan zien dat je op zoek bent naar een uitdaging.
+Hatath: Nou, ik heb er een voor je. Ik ben namelijk op zoek naar een specifieke plant die "Saccharum" heet.
+Hatath: Ik heb gehoord dat er misschien wel iets hiervan in deze grot te vinden valt! Helaas heerst er een spinnenplaag in de grot.
+Hatath: Ik ben niet sterk genoeg om dit te riskeren. Zou jij misschien deze grot willen onderzoeken en me zo snel mogelijk [3 Saccharum] brengen?
+Stage 2:
+
+Hatath: Ja, dit is precies waarnaar ik op zoek was!
+Hatath: Bedankt voor je hulp. Hier, neem deze Smaragden, je hebt ze verdiend!

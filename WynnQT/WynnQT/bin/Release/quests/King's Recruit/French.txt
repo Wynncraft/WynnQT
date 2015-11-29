@@ -1,0 +1,18 @@
+STAGE 1
+Conducteur de la caravane: Enfin, vous êtes reveillé ! Je commençais à m'inquiéter...
+Conducteur de la caravane: Notre caravane a perdu ses roues il y a quelques heures, on va devoir faire le reste du trajet à pieds.
+Conducteur de la caravane: Les autres passagers sont déjà partis, vous devez les rejoindre! Le Roi vous attend.
+Conducteur de la caravane: Mais avant de partir, prenez ces émeraudes et prenez un peu d'armure, ce n'est pas toujours sécurisé par ici...
+Conducteur de la caravane: N'oubliez d'utiliser vos sorts si vous êtes en danger! On ne sait jamais ce qui peut arriver.
+
+STAGE 2
+Honynn: Des zombies ! Nous sommes attaqués ! Utilisez votre arme pour nous défendre !
+Honynn: Ne vous inquiétez pas pour nous ! Continuez d'avancer, vite ! Le roi vous attend !
+
+STAGE 3
+Le Roi: Aaah! Une nouvelle recrue ! Vous arrivez juste à temps !
+Le Roi: Bienvenue dans la province de Wynn!
+Le Roi: Ce fort est nommé Ragni, un des plus vieux et des plus magnifiques zones que vous pouvez trouver!
+Le Roi: Votre travail est d'arrêter la croissance des monstres qui ravagent la province.
+Le Roi: Vous devriez peut-être rester jusqu'à ce que vous devenez plus expérimenté... Beaucoup de vies sont gâchées chaque jour...
+Le Roi: ... Bref, bonne chance ! Si vous êtes perdu, utilisez wynncraft.com/map ! C'est vraiment utile au début.

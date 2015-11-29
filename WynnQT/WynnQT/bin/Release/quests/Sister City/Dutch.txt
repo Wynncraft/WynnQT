@@ -1,0 +1,9 @@
+Stage 1:
+Lil: Wat ben ik blij jou te zien! Detlas heeft je hulp nodig!
+Lil: Zie je deze gigantische zandloper? Het verliest zijn zand zelfs nu we spreken. Binnenkort zal hij leeg gelopen zijn!
+Lil: Gelukkig is het ontwerp van Detlas gebaseerd op een al bestaande stad, Selchar.
+Lil: Ze hebben een soortgelijke zandloper. Ik weet zeker dat ze het niet erg zullen vinden als we een beetje van hun zand nemen, het is toch magisch.
+Lil: Het ligt midden in de oceaan. Denk je dat je daar voor ons heen kunt gaan? Breng me [12 Zandloper Zand]
+Stage 2:
+Lil: Geweldig! Dat is precies wat ik nodig had.
+Lil: Bedankt voor je hulp. Hier, neem dit als betaling voor je harde werk.

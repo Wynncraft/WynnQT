@@ -1,0 +1,14 @@
+Stage1:
+Enzan: Zdá se, že se odvažuješ jít do divočiny
+Enzan: Jmenuji se Enzan a jsem bývalý rytíř. Většinu života jsem strávil bojováním za armádu Ragni, zrovna jako teď ty.
+Enzan: Vím, jak těžké to musí být, být v těchto časech vojákem. Mám pro tebe něco, co ti pomůže! Tedy, já to nemám, ale můj bratr ano.
+Enzan: Jdi po této cestě, je u vstupu do lesa Nivla. Nemůžeš ho minout.
+Enzan: Řekni mu, že jsem tě poslal já. Někdy se chová jak pitomec k cizím lidem…
+
+Stage 2:
+Therck: Copak nevidíš, že jsem zaneprázdněný?
+Therck: Oh, můj bratr? Omlouvám se, to jsem nevěděl.
+Therck: Proč ne? Mám tu něco, co by ti mohlo pomoct…
+Therck: Tady, červený prášek, očaruje tvé zbraně a brnění mocným ohnivým kouzlem.
+Therck: Abys ho použil/a, dej prášek a brnění/zbraň do pracovního stolu ve tvém inventáři.
+Therck: Buď opatrný/á až budeš prozkoumávat les, málokteří vyjdou živí…

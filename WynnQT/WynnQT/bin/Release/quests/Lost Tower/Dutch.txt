@@ -1,0 +1,11 @@
+Stage 1:
+Laen: Hoi avonturier! Zou je mij misschien eventjes willen helpen?
+Laen: Een tijdje geleden, voordat oud Nemract vernietigd werd, had onze familie een vrij interessant boek in bezit.
+Laen: Helaas heeft een wezen het van ons gestolen tijdens de aanval die tot de destructie van Oud Nemract heeft geleid. Sindsdien hebben we het boek niet meer gezien.
+Laen: Alhoewel ik het boek niet terug wens te krijgen, een goede vriend van me, Nyris, wel. Hij woont in Almuj en is er op aan het wachten bij de ingang.
+Laen: Ik heb hem gezegd dat ik hem het boek zou geven, maar na uren zoeken in Oud Nemract kon ik het niet vinden.
+Laen: Breng him [1 Boek der Botten], Ik geloof dat dit boek zich nu tussen de beenderige handen van skeletten bevind. in een oude toren in Oud Nemract.
+Laen: Kijk of je deze toren kunt vinden, een van de skeletten heeft het boek waarschijnlijk.
+Stage 2:
+Nyris: Ik geloof dat Laen me vertelde dat je op zoek was naar het boek. Heb je het gevonden?
+Nyris: Oh! Geweldig! Dit zal zeer interessant gaan zijn om te lezen, bedankt!

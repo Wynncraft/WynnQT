@@ -16,3 +16,17 @@ C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.csprojResolveAssemb
 C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.Properties.Resources.resources
 C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.WynnQT.resources
 C:\Users\Acer\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.csproj.GenerateResource.Cache
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.exe.config
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.exe
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.pdb
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.exe
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.pdb
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.csprojResolveAssemblyReference.cache
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.Properties.Resources.resources
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.WynnQT.resources
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.csproj.GenerateResource.Cache
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.exe.manifest
+A:\Files\Documents\WCP\WynnQT\WynnQT\bin\Release\WynnQT.application
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.TrustInfo.xml
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.exe.manifest
+A:\Files\Documents\WCP\WynnQT\WynnQT\obj\Release\WynnQT.application
